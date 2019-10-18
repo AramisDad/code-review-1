@@ -6,7 +6,7 @@
 
 ## Description
 
-_This webpage describes my education, work experience, hobbies. There are links to some of the projects I have worked on during my first 4 days at Epicodus' Portland campus. The purpose is to show where I have spent my time doing during my adult life, and what I plan to do in the future. This webpage should be used to track my coding projects and assess my coding skills._
+_This webpage describes my education, work experience, hobbies. There are links to some of the projects I have worked on during my first 4 days at Epicodus' Portland campus. The purpose is to show where I have spent my time doing during my adult life, and what I plan to do in the future. This webpage should be used to track my coding projects and assess my coding skills. This webpage may also be viewed at https://aramisdad.github.io/code-review-1/ _
 
 ## Setup/Installation Requirements
 
