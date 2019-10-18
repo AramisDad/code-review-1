@@ -50,3 +50,15 @@ img {
 .malcolm {
   float:left;
 }
+
+.panel-heading {
+  background-color: orange !important;
+}
+
+.panel-title {
+  color: green !important
+}
+
+a {
+  color: green;
+}
