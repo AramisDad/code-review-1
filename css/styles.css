@@ -1,21 +1,47 @@
 body {
-  font-family: 'Major Mono Display', monospace;
+  font-family: 'Share Tech Mono', monospace;
 }
 
 .myname {
   font-family: cursive;
+  font-size: 80px;
 }
 
 .portfoliotype {
   font-family: monospace;
+  font-size: : 40px;
 }
 
 .jumbotron {
   background-color: #e68a00;
   color: #006600;
   text-align: center;
+  text-shadow: 2px;
+  height: 230px;
 }
 
 .panel-body li {
   font-style: italic;
+}
+
+.chrono {
+  color: #ff9900;
+  font-style: bold;
+}
+
+.container {
+  width: auto;
+  height: auto;
+  }
+
+img {
+  border: 3px solid green;
+  padding: 3px;
+  background-color: #ff9900;
+  float: center;
+  margin: 10px;
+}
+
+.projects {
+  float: right;
 }
