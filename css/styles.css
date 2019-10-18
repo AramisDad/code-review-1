@@ -1,1 +1,13 @@
+.myname {
+  font-family: cursive;
+}
 
+.portfoliotype {
+  font-family: monospace;
+}
+
+.jumbotron {
+  background-color: #e68a00;
+  color: #006600;
+  text-align: center;
+}
