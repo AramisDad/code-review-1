@@ -6,11 +6,12 @@ body {
 .myname {
   font-family: cursive;
   font-size: 80px;
+  float: left;
 }
 
 .portfoliotype {
   font-family: monospace;
-  font-size: : 40px;
+  font-size: : 80px;
 }
 
 .jumbotron {
